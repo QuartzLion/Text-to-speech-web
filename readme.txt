@@ -15,3 +15,5 @@ A simple web-based text-to-speech converter built using Python, Flask, and gTTS,
    ```bash
    git clone https://github.com/your-username/TextToSpeechWeb.git
    cd TextToSpeechWeb
+usage add the syle.css file to a folder named css in a folder named static
+and the index.html file to a folder named templates
